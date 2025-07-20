@@ -13,5 +13,6 @@ for i in range(n, 0, -1):
     print(i, end=' ')
     print() 
     
-    @@@
-    kjsgcclau.uhcc
+    hcakuigdfhliuaEwhdfbef
+    12345@@@
+    sd
