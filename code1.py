@@ -1,13 +1,16 @@
-n = 10  # You can change this value
+n = 10
 
 print("Front side counting:")
 for i in range(1, n + 1):
     print(i, end=' ')
     print()  # Line break
 
+
+
 print("Back side counting:")
 for i in range(n, 0, -1):
     print(i, end=' ')
     print() 
-    print("completed")
+    
     @@@
+    kjsgcclau.uhcc
